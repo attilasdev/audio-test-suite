@@ -1,0 +1,16 @@
+# Build directories
+build/
+Builds/
+JuceLibraryCode/
+
+# IDE specific
+.idea/
+.vscode/
+*.user
+*.suo
+*.xcworkspace
+*.xcuserdata
+*.vs/
+
+# macOS specific
+.DS_Store
