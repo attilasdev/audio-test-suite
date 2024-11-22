@@ -55,3 +55,11 @@ Audio Test Suite is a versatile audio plugin that provides essential tools for a
 After building, you can find the plugins in:
 - VST3: `build/AudioTestSuite_artefacts/VST3/`
 - AU: `build/AudioTestSuite_artefacts/AU/` (macOS only)
+
+## License
+This is a portfolio project created for educational purposes.
+Feel free to use, modify and learn from it.
+
+---
+
+Made with ❤️ by Attila
